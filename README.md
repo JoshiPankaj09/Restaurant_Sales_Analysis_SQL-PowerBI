@@ -5,6 +5,10 @@
 This project analyzes restaurant sales data using Power BI, providing insights and strategies to improve performance and customer satisfaction.
 Key Insights
 
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-06-27%20192823.png?raw=true)
+
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-06-27%20142301.png?raw=true)
+
     Sales:
         5,343 orders, $159,000 total sales, $29.80 APC.
     Performance:

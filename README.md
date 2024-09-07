@@ -33,17 +33,6 @@ Key Insights
     power_point/: Power Point Report
     readme.md: Overview and instructions.
 
-*Getting Started*
-
-    Clone the Repository:
-
-    Setup:
-        Install Power BI.
-        Use a SQL tool for queries.
-    Run Analysis:
-        Load data into SQL.
-        Execute queries.
-        Open Power BI reports.
 
 *Conclusion*
 
